@@ -1,3 +1,3 @@
 function hola(){
-    console.log("Hola mundo javascript");
+    window.alert("Hola apreciable usuario");
 }
